@@ -8,10 +8,10 @@ body {
   background-color: #E4E7EA;
 }
 a {
-  color: #ffb300;
+  color: #ffc107;
 }
 a:hover {
-  color: #00897b;
+  color: #2196f3;
 }
 .bg-image.no-image {
   background-color: #26a69a;
@@ -20,7 +20,7 @@ a:hover {
 /* --- Navbar --------------------------------------------------------------- */
 
 .navbar {
-  background-color: #26a69a;
+  background-color: #2196F3;
   color: white;
 }
 .navbar a {
@@ -99,7 +99,7 @@ a:hover {
 
 .fab {
   color: white;
-  background-color: #ffb300;
+  background-color: #FFC107;
 }
 .fab:hover {
   color: white;
@@ -121,7 +121,7 @@ a:hover {
 /* --- Footer --------------------------------------------------------------- */
 
 .footer {
-  background-color: #00897b;
+  background-color: #2196F3;
 }
 .footer a {
   color: #B2DFDB;
